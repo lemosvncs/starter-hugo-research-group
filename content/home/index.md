@@ -1,7 +1,21 @@
 ---
-# Files in this folder represent a Widget Page (homepage)
-type: widget_page
-
-# Homepage is headless, other widget pages are not.
+widget: asd
+widget_id: asd
 headless: true
+weight: 1
+title: Titulo
+subtitle: Subtitulo
+active: true
+type: widget_page
+design:
+  background:
+    color: "#ff7272"
+    gradient_start: "#bc0707"
 ---
+asdasdasd
+
+asda
+
+sd
+
+asdasdasdas
